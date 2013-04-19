@@ -9,7 +9,7 @@
 		<key>page1</key>
 		<dict>
 			<key>CreationDate</key>
-			<date>2013-04-19T11:10:39Z</date>
+			<date>2013-04-19T11:47:35Z</date>
 			<key>DigestAlgorithm</key>
 			<string>MD5</string>
 			<key>DocumentGUID</key>
@@ -20,73 +20,172 @@
 				<dict>
 					<key>Digest</key>
 					<data>
-					lwjbMF7g1wO+bfFA/HgSlQ==
+					3clo/1n1epe1pTCc0Sgvuw==
 					</data>
 					<key>Size</key>
-					<integer>5599</integer>
+					<integer>5837</integer>
 				</dict>
 				<key>files/6c4c8656a75c3727d5fbfa110c00652b-2.html</key>
 				<dict>
 					<key>Digest</key>
 					<data>
-					ceAY93ju3bAkkceCEX5JZw==
+					iJrbiVD+9lMw8s2HPSpxfA==
 					</data>
 					<key>Size</key>
-					<integer>19615</integer>
+					<integer>19853</integer>
+				</dict>
+				<key>files/archive-apr-2013.html</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					IrMnxJYuVnB1/icwrHX6MA==
+					</data>
+					<key>Size</key>
+					<integer>41657</integer>
 				</dict>
 				<key>files/archive-jul-2012.html</key>
 				<dict>
 					<key>Digest</key>
 					<data>
-					J6nVxCeb3VQwEMMZTVoKiA==
+					IXOgou/UZVRV/aXkvEI5Ig==
 					</data>
 					<key>Size</key>
-					<integer>20349</integer>
+					<integer>20634</integer>
 				</dict>
 				<key>files/archive-mar-2013.html</key>
 				<dict>
 					<key>Digest</key>
 					<data>
-					YBALURZR1ggsx9i3dz7C7g==
+					tuf+HF+cCoq/sVFMvCDEng==
 					</data>
 					<key>Size</key>
-					<integer>59868</integer>
+					<integer>60106</integer>
 				</dict>
 				<key>files/category-5b664e60.html</key>
 				<dict>
 					<key>Digest</key>
 					<data>
-					jonSYtdatZLVl9lBUgTU9Q==
+					Oiox/5GsvrbV5SLIBUReGQ==
 					</data>
 					<key>Size</key>
-					<integer>19731</integer>
+					<integer>19969</integer>
+				</dict>
+				<key>files/category-java.html</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					S14NLQ7wjXXieOtMIbR5Mg==
+					</data>
+					<key>Size</key>
+					<integer>29452</integer>
+				</dict>
+				<key>files/category-mac.html</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					zk9SSaAL7Wu6pf3y/mwkWQ==
+					</data>
+					<key>Size</key>
+					<integer>17520</integer>
+				</dict>
+				<key>files/ddc255889fee991d44b87d49b2dfcf31-5.html</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					Z9QJxCAA9vk+snzVhncrEQ==
+					</data>
+					<key>Size</key>
+					<integer>29321</integer>
 				</dict>
 				<key>files/dfa6003cfc053550965e2a72c11376e6-3.html</key>
 				<dict>
 					<key>Digest</key>
 					<data>
-					4iW1jcx4rp1oZfjbKwSeOw==
+					C0g6o9BxXoAAZxmY2nbnSQ==
 					</data>
 					<key>Size</key>
-					<integer>59595</integer>
+					<integer>59833</integer>
+				</dict>
+				<key>files/f6380bb319baeb14f88e4d01f083c2b6-4.html</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					JJZQuxdB818wlihAF9TMUg==
+					</data>
+					<key>Size</key>
+					<integer>17390</integer>
 				</dict>
 				<key>files/feed.xml</key>
 				<dict>
 					<key>Digest</key>
 					<data>
-					czxTrd17tIl3C5SLLvKg3w==
+					aPb++HANo/P7BZJQOf8FdQ==
 					</data>
 					<key>Size</key>
-					<integer>71214</integer>
+					<integer>107839</integer>
+				</dict>
+				<key>files/page1_blog_entry4-430d3d9f5ea69cc83e1fd8a08171b964.jpg</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					fBk11ymHgGt2cWr9MU1OFw==
+					</data>
+					<key>Size</key>
+					<integer>52183</integer>
+				</dict>
+				<key>files/page1_blog_entry4-5b19bd231eadde62117fbc301e1770c6.jpg</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					xpO5I8poGNRaRSkmbWRMJw==
+					</data>
+					<key>Size</key>
+					<integer>45462</integer>
+				</dict>
+				<key>files/page1_blog_entry4-a6ff1709978af8054c6c6affd85c45f1.jpg</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					ZVPR0sWcjIbz8q1wvgi1Wg==
+					</data>
+					<key>Size</key>
+					<integer>16510</integer>
+				</dict>
+				<key>files/page1_blog_entry4-aa8f8c051243a9c3b087ad25485274a8.jpg</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					or03uqmT+wkMnCih17SmVQ==
+					</data>
+					<key>Size</key>
+					<integer>55790</integer>
+				</dict>
+				<key>files/page1_blog_entry4-b4cd43d5d8259b6937030648ea4824e2.jpg</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					akVX6pJ+NmZFz9m101zz4w==
+					</data>
+					<key>Size</key>
+					<integer>69501</integer>
+				</dict>
+				<key>files/page1_blog_entry4-eb8c201fddf203ca88fb74e8af45b339.jpg</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					e6Ph3nigyz9FNIuv0LRjjA==
+					</data>
+					<key>Size</key>
+					<integer>43686</integer>
 				</dict>
 				<key>index.html</key>
 				<dict>
 					<key>Digest</key>
 					<data>
-					IXC2955f13j1SLjDbnsjbg==
+					MwR2HA8apnEyvBzOhYoaZg==
 					</data>
 					<key>Size</key>
-					<integer>74615</integer>
+					<integer>110998</integer>
 				</dict>
 			</dict>
 			<key>PageID</key>
