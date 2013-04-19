@@ -1,0 +1,10 @@
+#contentContainer #content {
+	float: left;
+	width: 492px;
+	border-right: 3px dashed #dfdfdf;
+}
+
+#sidebarContainer {
+	float: right;
+	width: 200px;
+}
