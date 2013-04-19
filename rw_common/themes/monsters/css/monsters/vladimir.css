@@ -1,0 +1,7 @@
+#monster {
+	background: no-repeat url(../../images/vladimir/vladimir.png);
+}
+
+#contentContainer #content ul.disc li {
+	background-image: url(../../images/vladimir/list_item.png);
+}

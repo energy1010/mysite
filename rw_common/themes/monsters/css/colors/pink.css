@@ -1,0 +1,71 @@
+a:link, a:visited {
+	color: #e17dce;
+}
+
+a:hover, a:active {
+	background: #e17dce;
+	color: #ffffff;
+}
+
+#pageHeader h2 {
+	color: #e17dce;
+}
+
+#sidebarContainer .sideHeader {
+	color: #e17dce;
+}
+
+blockquote, .standout {
+	color: #e17dce;
+}
+
+h1 {
+	color: #e17dce;
+}
+
+h2 {
+	color: #e17dce;
+}
+
+h3 {
+	color: #e17dce;
+}
+
+h4 {
+	color: #e17dce;
+}
+
+.blog-entry-title a {
+	color: #e17dce;
+}
+
+.blog-entry-date {
+	background-image: url(../../images/keif/date.png);
+}
+
+.blog-entry-category,
+.blog-category-link-enabled,
+.blog-category-link-disabled {
+	background-image: url(../../images/keif/category.png);
+}
+
+.blog-entry-permalink,
+.blog-archive-link-enabled,
+.blog-archive-link-disable {
+	background-image: url(../../images/keif/trackback.png);
+}
+
+.album-title {
+	color: #e17dce;
+}
+
+.movie-page-title {
+	color: #e17dce;
+}
+.movie-title {
+	color: #e17dce;
+}
+
+.form-input-field {
+	color: #e17dce;
+}

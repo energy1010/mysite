@@ -1,0 +1,8 @@
+#monster {
+	background: no-repeat url(../../images/grant/grant.png);
+}
+
+#contentContainer #content ul.disc li {
+	background-image: url(../../images/grant/list_item.png);
+	background-repeat: no-repeat;
+}

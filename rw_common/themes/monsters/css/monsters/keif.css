@@ -1,0 +1,6 @@
+#monster {
+	background: no-repeat url(../../images/keif/keif.png);
+}
+#contentContainer #content ul.disc li {
+	background-image: url(../../images/keif/list_item.png);
+}
